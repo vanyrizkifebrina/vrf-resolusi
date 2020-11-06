@@ -7,3 +7,4 @@ bikin waktu untuk belajar materi aja
 bikin waktu target perminggu
   *ditambahkan ke logbook
 bikin laporan dengan detail perminggu
+  *diupdate juga laporannya
