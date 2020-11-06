@@ -2,3 +2,5 @@ VRF Resolusi
 -belajar github untuk pemula
 -belajar programming lainnya untuk mengerjakan proyekan
 -mengerjakan tesis target perbulan
+-bercita-cita membuat website (hehe)
+-belajar HMI
