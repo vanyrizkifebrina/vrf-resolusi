@@ -3,5 +3,6 @@ RENCANA TIMELINE
 bikin waktu perhari dan target
 -dibuat rencana perhari ngapain
 bikin waktu untuk belajar materi aja
-bikin waktu target perminggu
+  *fokue ke materi tesis
 bikin laporan dengan detail perminggu
+  *diupdte ke loogbook
