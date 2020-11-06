@@ -5,6 +5,4 @@ bikin waktu perhari dan target
 bikin waktu untuk belajar materi aja
   *tentukan materi apa aja
 bikin waktu target perminggu
-  *ditambahkan ke logbook
 bikin laporan dengan detail perminggu
-  *diupdate juga laporannya
